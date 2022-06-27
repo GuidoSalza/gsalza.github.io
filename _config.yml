@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Contact me"
-  avatar           : "files/git_hub_profil_pic.jpeg"
+  avatar           : "git_hub_profil_pic.jpeg"
   bio              : "Sociologist interested in educational inequalities"
   location         : "Trento, Italy"
   employer         :
