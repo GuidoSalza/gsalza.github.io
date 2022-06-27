@@ -11,7 +11,7 @@ title                    : "Guido Salza"
 title_separator          : "-"
 name                     : &name "Guido"
 description              : &description "Guido Salza is Post-doctoral Research Fellow at the University of Trento in the Trento Center for Social Research Methods. His research interests lie in the broad area of educational inequalities, focusing on the determinants and effects of school failure. His work has been published in the journals Research in Social Stratification and Mobility, Socio-economic Planning Science, and Scuola Democratica- Learning for Democracy."
-url                      : https://guidosalza.github.io/gsalza.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gsalza.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://guidosalza.github.io/gsalza.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Contact me"
+  name             : "Guido Salza"
   avatar           : "git_hub_profil_pic.jpeg"
   bio              : "Sociologist interested in educational inequalities"
   location         : "Trento, Italy"
