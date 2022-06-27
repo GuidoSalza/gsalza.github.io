@@ -86,7 +86,7 @@ author:
   location         : "Trento, Italy"
   employer         :
   pubmed           : 
-  googlescholar    : "hhttps://scholar.google.com/citations?user=m2Yt3AUAAAAJ&hl=it&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?hl=it&user=m2Yt3AUAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "guido.salza@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Guido-Salza"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/guidosalza"
+  twitter          : "https://twitter.com/GuidoSalza"
   vine             :
   weibo            :
   xing             :
