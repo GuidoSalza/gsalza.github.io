@@ -3,14 +3,15 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "National & International Conferences"
+  - title: "Conferences & Seminars"
     url: /talks/    
+    
+  - title: "Work in progress"
+    url: /progress/
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Work in progress"
-    url: /progress/
+ 
