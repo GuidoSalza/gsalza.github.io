@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Life is like a construction site... "
+title: "Work in progress"
 permalink: /progress/
 author_profile: true
 ---
