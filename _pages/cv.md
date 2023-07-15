@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Download my <a href="https://guidosalza.github.io/files/Resume_Salza.pdf">CV</a>
+View or download my <a href="https://guidosalza.github.io/files/Resume_Salza.pdf">CV</a>
