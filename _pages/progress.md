@@ -5,9 +5,9 @@ permalink: /progress/
 author_profile: true
 ---
 
-Drafts or presentations are available upon request
+_Drafts or presentations are available upon request_
 
-🠊 What do parents value in a school? A factorial survey experiment in three countries (with Moris Trivent)
+🠊 What do parents value in a school? A factorial survey experiment in three countries <sub>(with Moris Trivent)</sub>
 
 🠊 Patterns of horizontal gender (de)segregation in higher education. A comparative analysis of institutional settings and over birth cohorts (with Giulia Tattarini)
 
