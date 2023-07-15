@@ -8,3 +8,4 @@ redirect_from:
 ---
 
 Download my CV [here][(https://drive.google.com/file/d/1IVkHxr1cFjRWRgg1k1L5wWeQpRe5MkQ0/view?usp=drive_link)]
+Download my <a href="https://github.com/guidosalza.github.io/files/Resume_Salza.pdf" target="_blank">CV</a>
