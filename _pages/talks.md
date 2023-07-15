@@ -7,6 +7,12 @@ author_profile: true
 
 ### National & International conferences
 
+6th Workshop on Experimental Sociology, Sciences Po Paris, May 2023
+
+ISA RC28 Conference, Sciences Po Paris, May 2023
+
+SISEC Conference, University of Brescia, February 2023
+
 ECSR Conference, University of Amsterdam, July 2022
 
 SISEC Conference, University of Bologna, June 2022
