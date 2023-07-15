@@ -13,8 +13,6 @@ _Drafts or presentations are available upon request_
 
 🠊 A novel examination of trends in vertical and horizontal inequalities in higher education: A large scale cross-national analysis (with Moris Triventi)
 
-🠊 Digitalization and youth: A systematic review and a narrative synthesis of the role of socio-economic background (with Robin Samuel)
-
 🠊 Feeling good about school? Subjective School Experience and Well-Being in Times of COVID-19 among the Youth (with Roger Fernandez Urbano)
 
 🠊 Specific Learning Disorders and Distance Learning (with Alice Scavarda)
