@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Download my CV [here]([https://drive.google.com/file/d/11IufzDOU4IqrSexdE8WOPHT_jESFXdXn/view?usp=sharing](https://drive.google.com/file/d/1IVkHxr1cFjRWRgg1k1L5wWeQpRe5MkQ0/view?usp=sharing)https://drive.google.com/file/d/1IVkHxr1cFjRWRgg1k1L5wWeQpRe5MkQ0/view?usp=sharing)
+Download my CV [here][https://drive.google.com/file/d/1IVkHxr1cFjRWRgg1k1L5wWeQpRe5MkQ0/view?usp=drive_link]
