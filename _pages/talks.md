@@ -7,6 +7,10 @@ author_profile: true
 
 ### National & International conferences
 
+INVALSI Conference, Rome, October 2024
+
+SISEC Conference, University of Cagliari, January 2024
+
 6th Workshop on Experimental Sociology, Sciences Po Paris, May 2023
 
 ISA RC28 Conference, Sciences Po Paris, May 2023
@@ -49,6 +53,8 @@ Annual Workshop of the European Research Network on Transitions in Youth, Univer
 
 
 ### Invited to seminars
+
+UNITO seminars, University of Turin, March 2024
 
 Comparative Life Course and Inequality Research Centre (European University Institute) on October 27, 2020
 
