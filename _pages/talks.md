@@ -54,7 +54,8 @@ Annual Workshop of the European Research Network on Transitions in Youth, Univer
 
 ### Invited to seminars
 
-UNITO seminars, University of Turin, March 2024
+UNITO seminars, University of Turin, April 19th "Horizontal segregation in higher education and labor market outcomes
+A comparative analysis of institutional settings and over birth cohorts". Get the flyer [here](LINK).
 
 Comparative Life Course and Inequality Research Centre (European University Institute) on October 27, 2020
 
