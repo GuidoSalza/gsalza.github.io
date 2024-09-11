@@ -6,6 +6,8 @@ author_profile: true
 ---
 ### In peer reviewed journals:
 
+Contini, D., & Salza, G. (2024). Children left behind. New evidence on the (adverse) impact of grade retention on educational careers. European Sociological Review, jcae014.
+
 Salza, G. (2022). Equally performing, unfairly evaluated: The social determinants of grade repetition in Italian high schools. Research in Social Stratification and Mobility, 77, 100676.
 
 Jütte, B.J., Noto La Diega, G., Priora, G., Salza, G. (2022). Zooming in on Education: An Empirical Study on Digital Platforms and Copyright in the United Kingdom, Italy, and the Netherlands. \textit{European Journal of Law and Technology}, Vol. 13 No. 2.
@@ -17,8 +19,6 @@ Contini, D., and Salza, G. (2020). Too few university graduates. Inclusiveness a
 Cavallaro, M., et al. (2018. Un scrutin pour trois pays : la nouvelle géographie politique italienne suite à l’élection législative du 4 mars 2018. EchoGéo, 16294.
 
 ### Submitted works and preprints:
-
-Contini, D., and Guido S. (forthcoming). Children left behind. New evidence on the (adverse) impact of grade retention on educational careers (Currently under review at the European Sociological Review).
 
 Contini D., G. Salza, A. Scagni (2017) Dropout and Time to Degree in Italian Universities Around the Economic Crisis. Working paper 16/17 Department of Economics and Statistics, University of Turin
 
