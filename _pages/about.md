@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have a Ph.D. in Sociology and Methodology of Social Research and I am currently an Assistant Professor at the [University of Milan, Department of Social and Political Sciences].([https://www.unimi.it/en/ugov/ou-structure/department-social-and-political-sciences]).
+I have a Ph.D. in Sociology and Methodology of Social Research and I am currently an Assistant Professor at the [University of Milan, Department of Social and Political Sciences](https://www.unimi.it/en/ugov/ou-structure/department-social-and-political-sciences).
 
 I am interested in the institutional and informal constraints that prevent equal educational opportunities for all. My approach covers a range of perspectives: comparing educational inequalities across different contexts, analyzing how school organizational features influence these disparities, and examining the impact of digitalization on educational access. 
 
